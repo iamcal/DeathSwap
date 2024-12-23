@@ -1,4 +1,4 @@
-effect give @a[tag=DS] levitation 1 255 true
+#effect give @a[tag=DS] levitation 1 255 true
 
 scoreboard players set $timer DS_TIMER 0
 scoreboard players set $timeLeft DS_TIMER 5000
