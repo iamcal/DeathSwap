@@ -35,6 +35,7 @@ xp set @a[tag=DS] 0 levels
 xp set @a[tag=DS] 0 points
 advancement revoke @a[tag=DS] everything
 effect clear @a[tag=DS]
+give @a[tag=DS] minecraft:water_bucket
 gamemode survival @a[tag=DS]
 
 effect give @a[tag=DS] regeneration 10 255 true
